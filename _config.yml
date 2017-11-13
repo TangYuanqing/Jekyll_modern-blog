@@ -1,7 +1,7 @@
 # Site settings
 title: 南邮通达第四届科技文化节
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+description: 科协计算机部
+keywords: SAST
+author: TangYuanqing
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

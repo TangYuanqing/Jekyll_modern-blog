@@ -2,8 +2,8 @@
 title:  "程序设计大赛报名入口"
 subtitle: ""
 author: ""
-avatar: ""
-image: ""
+avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=+iqc5a5wI5L42gOkkmXibwgT/NNhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwMDY1JnQ9MTUxMDU4ODA2NSZyPTY2MzQ1ODk0MiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
+image: "http://tdsast-1252477461.cossh.myqcloud.com/%E6%8A%A5%E5%90%8D.png?sign=7whBOKwFH8/o67YGrdhVDdf3Cg9hPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwNDc0JnQ9MTUxMDU4ODQ3NCZyPTg3NDkwNzI5MCZmPS8lRTYlOEElQTUlRTUlOTAlOEQucG5nJmI9dGRzYXN0"
 date: 2017-11-13 18:30:01
 ---
 

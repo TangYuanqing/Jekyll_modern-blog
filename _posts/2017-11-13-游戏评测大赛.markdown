@@ -1,6 +1,6 @@
 ---
 title:  "“AA国际动漫杯”游戏评测大赛"
-subtitle: "比赛截止日期：2017-12-03"
+subtitle: "投稿截止日期：2017-12-03"
 author: "JasonWang"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"

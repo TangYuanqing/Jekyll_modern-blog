@@ -1,6 +1,6 @@
 ---
 title:  "程序设计大赛"
-subtitle: "报名截止日期：2017-11-17(周六)<br>比赛日期：2017-11-25(周六)<br><br><a href='baoming.html'>立即报名</a>"
+subtitle: "报名截止日期：2017-11-17(周六)<br>比赛日期：2017-11-25(周六)<br><br><br><br><br><a href='baoming.html'>立即报名</a>"
 author: "TangYuanqing"
 avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=+iqc5a5wI5L42gOkkmXibwgT/NNhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwMDY1JnQ9MTUxMDU4ODA2NSZyPTY2MzQ1ODk0MiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
 image: "http://tdsast-1252477461.cossh.myqcloud.com/a.jpg?sign=2Di+3xXiZJiLjJGnRfN0VUXnU+JhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5MzQ4JnQ9MTUxMDU4NzM0OCZyPTE2ODYwNjcwOSZmPS9hLmpwZyZiPXRkc2FzdA=="

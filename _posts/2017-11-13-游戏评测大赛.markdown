@@ -3,7 +3,7 @@ title:  "游戏评测大赛"
 subtitle: "报名截止日期：2017-12-03"
 author: "JasonWang"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/b.jpg"
 date:   2017-11-13 18:30:00
 ---
 

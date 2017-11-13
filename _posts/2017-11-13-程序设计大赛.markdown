@@ -2,7 +2,7 @@
 title:  "程序设计大赛"
 subtitle: "报名截止日期：2017-11-17(周六)<br>比赛日期：2017-11-25(周六)"
 author: "TangYuanqing"
-avatar: "img/authors/wferr.png"
+avatar: "http://tdsast-1252477461.cossh.myqcloud.com/JasonWang%20.jpg?sign=DMon6AMXdeA2jsMmGHwVPJEIWGZhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5NjQyJnQ9MTUxMDU4NzY0MiZyPTEwNTY4NDM4NzEmZj0vSmFzb25XYW5nJTIwLmpwZyZiPXRkc2FzdA=="
 image: "http://tdsast-1252477461.cossh.myqcloud.com/a.jpg?sign=2Di+3xXiZJiLjJGnRfN0VUXnU+JhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5MzQ4JnQ9MTUxMDU4NzM0OCZyPTE2ODYwNjcwOSZmPS9hLmpwZyZiPXRkc2FzdA=="
 date:   2017-11-13 18:30:00
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "程序设计大赛"
-subtitle: "报名截止日期:2017-11-17(周六)"
+subtitle: "报名截止日期：2017-11-17(周六)"
 author: "TangYuanqing"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"

@@ -1,5 +1,5 @@
 ---
-title:  "游戏评测大赛"
+title:  "“AA国际动漫杯”游戏评测大赛"
 subtitle: "报名截止日期：2017-12-03"
 author: "JasonWang"
 avatar: "img/authors/wferr.png"
@@ -7,14 +7,38 @@ image: "img/b.jpg"
 date:   2017-11-13 18:30:00
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+## 一、大赛宗旨
+  旨在鼓励更多大学生能够以另外一种眼光审视游戏，发掘游戏的内在运行机制，增进对于游戏的理解。通过参赛，锻炼学生的游戏分析能力及写作能力，展示其对于游戏深度的了解，为加强校内同学间的交流和相互学习提供机会。
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+## 二、参赛对象
+全体南京邮电大学通达学院在校学生。
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+## 三、参赛形式
+个人参赛，于报名后向科协计算机部工号邮箱2189925724@qq.com投稿，邮件主题“游戏评测+姓名”，将评测文章以添加附件方式发送，Word文件名为“姓名+文章题目”，比赛采用网上投稿参赛，线下颁奖的比赛形式。
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+## 四、比赛流程方式及要求
+1.	选手在12.3前，只需要向科协计算机部的邮箱投稿，以收到回复邮件确定其参加游戏评测大赛为成功报名，若选手在投稿后收不到回复邮件可与科协计算机部工号私聊确认其报名情况。
+2.	选手须在规定的参赛期间内提交自己的对游戏的评测文章，其评测的游戏类型不限，游戏题材不限，游戏风格不限，评测文章的字数不限，文章可加入图片。
+3.	选手提交的文章所评测的游戏若为独立游戏，需在文章最后注明该游戏的相关网站（例如该游戏的steam页面或其它游戏平台的该游戏页面、或官方网站、或其它游戏媒体的介绍网站）
+4.	选手所提交的评测文章必须为自己的原创文章，禁止抄袭，可适当引用他人的文章内容用于佐证自己的观点，但所引用的内容不能作为自己文章的中心思想，且引用须在文章最后注明出处，否则视同抄袭
+5.	选手可提交以前的评测文章，但其撰写日期最早不得早于9月1号。若之前的文章已经发布到网上，则须在文章最后注明该文章在网上的地址，并随同文章提供自己作为原作者的截图证据，否则视同抄袭。
+6.	选手所提交的评测文章内容不得出现对他人的人身攻击，以及反动涉黄言论，违者视为自动放弃参赛资格。
+7.	原则上选手可提交多篇游戏评测文章，但每篇文章所评测的游戏必须不同，每款游戏的评测文章仅允许提交一次，若一款游戏的评测文章多次重复提交，将以最早提交的那一篇文章为准，选手虽然可提交多篇文章，但会取其文章中得分最高的文章的分数作为其得分分数，若在评审过程中发现其所提交的多篇文章评测内容基本雷同时，将会视同恶意提交作品，将降低对其的分数。
+8. 抄袭者，视为自动放弃参赛资格。
+9. 参与比赛的选手，视为自动同意科协可将其所提交的评测文章用于宣传所用包括但不限于通过科协微信公众号、QQ公众号、微博、贴吧等渠道进行对外宣传，若参赛选手不愿意科协将其文章进行宣传，可向科协计算机部工号反映。
+10. 赛后若发现获奖选手的游戏评测文章与网上其他人的游戏评测文章有过多的相似之处，即涉嫌抄袭者，科协将取消其比赛成绩并收回其获奖奖品。
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+## 五、比赛评定方式
+1）	比赛赛制：在选手报名并提交游戏评测文章后，将进行两轮的筛选，第一轮筛选先剔除不合规定的及写得毫无深度的文章，第二轮筛选由评委给分，通过分数确定大赛一等奖、二等奖、三等奖获得者。
+2）结果评定：比赛成绩将于报名截止后一个星期内确定，经过重审文章之后剔除违规选手后确定最终获奖名单。
+
+## 六、奖项设置
+一等奖（1名）：xbox one s 战争红限量手柄
+二等奖（2名）：手机游戏手托
+三等奖（3名）：AA国际动漫店代金券
+
+
+注：
+1、本次竞赛奖项设置为物质奖励。
+2、本次竞赛安排如有变动，另行通知。
+3、本次大赛未尽事项的解释权归属南京邮电大学通达学院科协与技术协会。

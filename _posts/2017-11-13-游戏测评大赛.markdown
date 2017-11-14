@@ -1,5 +1,5 @@
 ---
-title: <h2 style="color:cyan">“AA国际动漫杯”游戏评测大赛</h2>
+title: <h2 style="color:#007bbb">“AA国际动漫杯”游戏评测大赛</h2>
 subtitle: 投稿截止日期：<b><a style="color:red">2017-12-03</a></b>
 author: "JasonWang"
 avatar: "http://tdsast-1252477461.cossh.myqcloud.com/JasonWang.jpg?sign=XODllHMSgua05o/soFzeom54cAhhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5NzI2JnQ9MTUxMDU4NzcyNiZyPTE3MTM0Njg5NjAmZj0vSmFzb25XYW5nLmpwZyZiPXRkc2FzdA=="

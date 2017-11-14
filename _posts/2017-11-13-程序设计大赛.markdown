@@ -1,5 +1,5 @@
 ---
-title:  <h2 style="color:cyan">程序设计大赛</h2>
+title:  <h2 style="color:#007bbb">程序设计大赛</h2>
 subtitle: 报名截止日期：<b><a style="color:red">2017-11-18</a></b>(周六)<br>正式比赛日期：<b><a style="color:red">2017-11-25</a></b>(周六)
 author: "TangYuanqing"
 avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=+iqc5a5wI5L42gOkkmXibwgT/NNhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwMDY1JnQ9MTUxMDU4ODA2NSZyPTY2MzQ1ODk0MiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"

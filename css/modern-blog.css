@@ -77,6 +77,7 @@
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
+	overflow: hidden;
 }
 .card__container--closed .card__caption::after {
 	content: '';
@@ -90,8 +91,9 @@
 	-moz-filter: blur(1px);
 	-ms-filter: blur(1px);
 	-o-filter: blur(1px);
-	filter: blur(1px); 
+	filter: blur(1px);
 	z-index: -1;
+	margin: -30px;
 }
 .card__title {
 	font-size: 1.5em;

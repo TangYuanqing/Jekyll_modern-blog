@@ -87,6 +87,7 @@
 
 .card__container--closed .card__title {
 	color: #fff;
+	text-align: center;
 }
 
 .card__subtitle {

@@ -69,8 +69,22 @@
 	padding: 35px 30px 0px;
 	background-color:rgba(0,0,0,0);
 }
-
 .card__container--closed .card__caption {
+	z-index: 1;
+	font-size: 1em;
+	max-width: auto;
+	padding: 10px 10px 25px;
+	-webkit-transform: translateY(-100%);
+	-ms-transform: translateY(-100%);
+	transform: translateY(-100%);
+}
+.card__container--closed .card__caption::after {
+	content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 	font-size: 1em;
 	max-width: auto;
 	padding: 10px 10px 25px;
@@ -78,6 +92,7 @@
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
 	background-color:rgba(0,0,0,0.4);
+	z-index: -1;
 }
 .card__title {
 	font-size: 1.5em;

@@ -9,7 +9,7 @@ date:   2017-11-13 18:30:00
 
 
 ---
-### <center><a href="http://www.tdsastc.cn/tougao.html" style="color:red">立即投稿</a></center>  
+### <center><a href="http://www.tdsastc.cn/tougao.html" style="color:cyan">立即投稿</a></center>  
 ---
 ## 一、大赛宗旨  
 #### 旨在鼓励更多大学生能够以另外一种眼光审视游戏，发掘游戏的内在运行机制，增进对于游戏的理解。通过参赛，锻炼学生的游戏分析能力及写作能力，展示其对于游戏深度的了解，为加强校内同学间的交流和相互学习提供机会。

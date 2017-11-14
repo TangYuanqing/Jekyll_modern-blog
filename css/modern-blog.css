@@ -94,11 +94,11 @@
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
-	/*background-color:rgba(0,0,0,0.4);*/
+	background-color:rgba(0,0,0,1);
 	-webkit-filter: blur(10px); /* Chrome, Opera */
        -moz-filter: blur(10px);
         -ms-filter: blur(10px);
-            filter: blur(10px);    
+            filter: blur(10px);
 }
 .card__title {
 	font-size: 1.5em;

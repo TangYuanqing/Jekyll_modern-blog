@@ -67,7 +67,7 @@
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 35px 30px 0px;
-	/*background-color:rgba(0,0,0,0);*/
+	background-color:rgba(0,0,0,0);
 }
 
 .card__container--closed .card__caption {
@@ -77,28 +77,7 @@
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
-	/*background-color:rgba(0,0,0,0.4);*/
-}
-.card__blur {
-	font-size: 2em;
-	max-width: 800px;
-	margin: 0 auto;
-	padding: 35px 30px 0px;
-	background-color:rgba(0,0,0,0);
-}
-
-.card__container--closed .card__blur {
-	font-size: 1em;
-	max-width: auto;
-	padding: 10px 10px 25px;
-	-webkit-transform: translateY(-100%);
-	-ms-transform: translateY(-100%);
-	transform: translateY(-100%);
-	background-color:rgba(0,0,0,1);
-	-webkit-filter: blur(10px); /* Chrome, Opera */
-       -moz-filter: blur(10px);
-        -ms-filter: blur(10px);
-            filter: blur(10px);
+	background-color:rgba(0,0,0,0.4);
 }
 .card__title {
 	font-size: 1.5em;

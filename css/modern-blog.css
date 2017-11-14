@@ -94,8 +94,8 @@
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
-	background-color:rgba(0,0,0,0.4);
-	-webkit-filter: blur(2px); /* Chrome, Safari, Opera */  
+	/*background-color:rgba(0,0,0,0.4);*/
+	-webkit-filter: blur(2px); /* Chrome, Safari, Opera */
 	filter: blur(5px);
 }
 .card__title {

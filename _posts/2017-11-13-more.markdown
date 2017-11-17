@@ -7,6 +7,5 @@ image: "img/c.jpg"
 date:   2017-11-13 18:30:00
 ---
 
-## 点击加入各类比赛交流群:
-<a styles="color:red" href="https://jq.qq.com/?_wv=1027&k=5ty0rf5">362864221</a>
+## 点击加入各类比赛交流群:<a href="https://jq.qq.com/?_wv=1027&k=5ty0rf5" styles="color:red">362864221</a>
 ![各类比赛交流群](img/c.jpg)

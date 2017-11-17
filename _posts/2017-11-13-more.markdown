@@ -1,0 +1,11 @@
+---
+title: 游戏评测大赛
+subtitle:
+author: "大学生科学与技术协会"
+avatar: "authors/sast.png"
+image: "c.png"
+date:   2017-11-13 18:30:00
+---
+
+
+![各类比赛交流群](c.png)

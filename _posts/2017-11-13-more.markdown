@@ -1,6 +1,6 @@
 ---
-title: 更多比赛...
-subtitle:
+title: 　<br>更多比赛...
+subtitle: 　<br>
 author: "大学生科学与技术协会"
 avatar: "img/authors/sast.png"
 image: "img/c.jpg"

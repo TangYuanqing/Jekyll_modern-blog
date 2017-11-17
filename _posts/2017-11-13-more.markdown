@@ -1,5 +1,5 @@
 ---
-title: 游戏评测大赛
+title: 更多比赛...
 subtitle:
 author: "大学生科学与技术协会"
 avatar: "authors/sast.png"

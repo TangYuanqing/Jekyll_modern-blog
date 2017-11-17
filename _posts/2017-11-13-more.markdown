@@ -11,4 +11,4 @@ date:   2017-11-13 18:30:00
 ---
 网页设计大赛<br>数学建模<br>市场调查分析大赛<br>电子设计大赛<br>焊接大赛<br>表情包征集活动<br>SAST创新项目  
 <br><br>
-![各类比赛交流群](img/c.jpg)
+<center>![各类比赛交流群](img/c.jpg){:height="50%" width="50%"}</center>

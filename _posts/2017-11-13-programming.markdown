@@ -35,6 +35,6 @@ date:   2017-11-13 18:30:00
 三等奖（3名）  
 注：  
 1、本次竞赛奖项设置为证书和物质奖励。  
-<b style="color:red">   对于获奖选手，在参加蓝桥杯赛事时报销相应的报名以及食宿费用</b>。  
+<b style="color:red">   对于获奖选手，在参加<b style="color:blue" href="http://dasai.lanqiao.cn/pages/dasai/curren_item.html">蓝桥杯</b>赛事时报销相应的报名以及食宿费用</b>。  
 2、本次竞赛安排如有变动，另行通知。  
 3、本次大赛未尽事项的解释权归属南京邮电大学通达学院科协与技术协会。  

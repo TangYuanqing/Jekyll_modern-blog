@@ -1,0 +1,16 @@
+---
+title:  程序设计大赛参赛须知
+subtitle:
+author: "TangYuanqing"
+avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=+iqc5a5wI5L42gOkkmXibwgT/NNhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwMDY1JnQ9MTUxMDU4ODA2NSZyPTY2MzQ1ODk0MiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
+image: "http://tdsast-1252477461.cossh.myqcloud.com/a.jpg?sign=2Di+3xXiZJiLjJGnRfN0VUXnU+JhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5MzQ4JnQ9MTUxMDU4NzM0OCZyPTE2ODYwNjcwOSZmPS9hLmpwZyZiPXRkc2FzdA=="
+date:   2017-11-13 18:30:00
+---
+
+
+---
+<a href="https://www.vijos.org/d/tdsastcA/contest" styles="align:center">A组参赛地址</a><br>
+<a href="https://www.vijos.org/d/tdsastcB/contest" styles="align:center">B组参赛地址</a>
+
+
+---

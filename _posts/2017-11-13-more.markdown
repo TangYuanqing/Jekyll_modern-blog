@@ -3,7 +3,7 @@ title: 　<br>更多比赛
 subtitle: 　<br>
 author: "大学生科学与技术协会"
 avatar: "img/authors/sast.png"
-image: "img/c.jpg"
+image: "http://tdsast-1252477461.cossh.myqcloud.com/c.jpg?sign=X+GMiAqweubUh2i7EGHfIPmVDKxhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjEyMDA4JnQ9MTUxMTAyMDAwOCZyPTE0NDY4MjM3MDUmZj0vYy5qcGcmYj10ZHNhc3Q="
 date:   2017-11-13 18:30:00
 ---
 

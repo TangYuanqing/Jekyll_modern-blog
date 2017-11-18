@@ -11,6 +11,9 @@ date:   2017-11-13 18:30:00
 ---
 <center><a href="https://www.vijos.org/d/tdsastcA/contest" style="color:#007bbb">A组参赛地址</a></center>
 <center><a href="https://www.vijos.org/d/tdsastcB/contest" style="color:#007bbb">B组参赛地址</a></center>
-
-
 ---
+在进入报名时所填写的组别的网址后，根据群内所提供的账号密码进行登录，即可正常显示比赛信息（如异常，请在群中联系群主）
+
+## 参与比赛
+你必须首先参加比赛，才能正确查看题目信息，否则将视为缺席比赛。参与比赛的具体方法如下：
+![参与比赛](http://tdsast-1252477461.cossh.myqcloud.com/jointheamatch.png?sign=j7i+Vfmqew3y+PZKBh8TnWqecFphPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjExNjYyJnQ9MTUxMTAxOTY2MiZyPTE2NjU2NjcwJmY9L2pvaW50aGVhbWF0Y2gucG5nJmI9dGRzYXN0)

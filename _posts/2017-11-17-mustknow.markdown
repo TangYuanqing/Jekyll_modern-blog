@@ -12,7 +12,7 @@ date:   2017-11-13 18:30:00
 <center><a href="https://www.vijos.org/d/tdsastcA/contest" style="color:#007bbb">A组参赛地址</a></center>
 <center><a href="https://www.vijos.org/d/tdsastcB/contest" style="color:#007bbb">B组参赛地址</a></center>
 ---
-在进入报名时所填写的组别的网址后，根据群内所提供的账号密码进行登录，即可正常显示比赛信息（如异常，请在群中联系群主）
+<p>在进入报名时所填写的组别的网址后，根据群内所提供的账号密码进行登录，即可正常显示比赛信息（如异常，请在群中联系群主）</p>
 
 <center><h1>参与比赛</h1></center>
 ---

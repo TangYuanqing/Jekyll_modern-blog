@@ -9,8 +9,8 @@ date:   2017-11-13 18:30:00
 
 
 ---
-<center><a href="https://www.vijos.org/d/tdsastcA/contest" styles="color:cyan">A组参赛地址</a></center><br>
-<center><a href="https://www.vijos.org/d/tdsastcB/contest" styles="color:cyan">B组参赛地址</a></center>
+<center><a href="https://www.vijos.org/d/tdsastcA/contest" style="color:cyan">A组参赛地址</a></center><br>
+<center><a href="https://www.vijos.org/d/tdsastcB/contest" style="color:cyan">B组参赛地址</a></center>
 
 
 ---

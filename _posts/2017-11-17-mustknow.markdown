@@ -26,7 +26,7 @@ date:   2017-11-13 18:30:00
 点击参与比赛即可。此时当到达比赛时间时，你就可以参与比赛了。  
 ![参与比赛](http://tdsast-1252477461.cossh.myqcloud.com/jointhematch2.png?sign=tfkAHh+JOoeuKJu1flWGJ5k48PVhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjExODkwJnQ9MTUxMTAxOTg5MCZyPTE0MzkyODkyNTYmZj0vam9pbnRoZW1hdGNoMi5wbmcmYj10ZHNhc3Q=){:height="100%" width="100%"}  
 热身赛将持续到正式赛前。届时请务必先在热身赛完成一题以上已确认你已经熟悉如何提交题目。否则正式比赛出现OJ提交等操作问题浪费的时间自行负责。
-<center><h1>题目提交</h1></center>
+<center><h1>题目结构与代码提交</h1></center>
 ---
 
 
@@ -133,4 +133,8 @@ public class Main
 
 请特别注意，Java的主类名必须是Main。
 
-<font color="red">请注意，递交代码时一定要选择正确的语言(默认为C)，选择错误代码将无法正常运行。</font>
+编写程序时，你可以使用自己电脑上的编译环境进行程序运行与调试（推荐），也可以在题目界面右侧的“进入在线编程模式”中进行代码编写、运行与调试。此页面也继承了代码提交(评测)按钮。
+
+如在个人电脑编写程序，请在题目界面的右侧选择"递交"按钮，在递交界面将已调试运行成功的代码粘贴到代码区。<br>
+<font color="red">请注意，递交代码时一定要选择正确的语言(默认为C)，选择错误代码将无法正常运行。</font><br>
+最后，按下"递交"按钮即可完成递交。跳转界面将反馈评测结果。

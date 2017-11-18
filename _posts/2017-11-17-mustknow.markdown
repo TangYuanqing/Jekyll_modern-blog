@@ -132,8 +132,10 @@ public class Main
 本题作为第一题，在提示中已经分别给了C、C++和Java的代码，你可以直接把这个代码拷贝过去作为自己的代码提交。
 
 请特别注意，Java的主类名必须是Main。
+---
 
-编写程序时，你可以使用自己电脑上的编译环境进行程序运行与调试（推荐），也可以在题目界面右侧的“进入在线编程模式”中进行代码编写、运行与调试。此页面也继承了代码提交(评测)按钮。  
+
+编写程序时，你可以使用自己电脑上的编译环境进行程序运行与调试（推荐），也可以在题目界面右侧的“进入在线编程模式”中进行代码编写、运行与调试。此页面也集成了代码提交(评测)按钮。  <br>
 如在个人电脑编写程序，请在题目界面的右侧选择"递交"按钮。  
 ![递交代码](http://tdsast-1252477461.cossh.myqcloud.com/submitcode.png?sign=xaTUMBGQS74KzNENB3wNepTM/lxhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjE1Mjc1JnQ9MTUxMTAyMzI3NSZyPTI0MjQ2OTA4OCZmPS9zdWJtaXRjb2RlLnBuZyZiPXRkc2FzdA==){:height="100%" width="100%"}  
 在递交界面将已调试运行成功的代码粘贴到代码区。  

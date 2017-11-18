@@ -21,6 +21,7 @@ date:   2017-11-13 18:30:00
 ![参与比赛](http://tdsast-1252477461.cossh.myqcloud.com/jointheamatch.png?sign=j7i+Vfmqew3y+PZKBh8TnWqecFphPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjExNjYyJnQ9MTUxMTAxOTY2MiZyPTE2NjU2NjcwJmY9L2pvaW50aGVhbWF0Y2gucG5nJmI9dGRzYXN0){:height="100%" width="100%"}  
 点击参与比赛即可。此时当到达比赛时间时，你就可以参与比赛了。  
 ![参与比赛](http://tdsast-1252477461.cossh.myqcloud.com/jointhematch2.png?sign=tfkAHh+JOoeuKJu1flWGJ5k48PVhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjExODkwJnQ9MTUxMTAxOTg5MCZyPTE0MzkyODkyNTYmZj0vam9pbnRoZW1hdGNoMi5wbmcmYj10ZHNhc3Q=){:height="100%" width="100%"}  
+热身赛将持续到正式赛前。届时请务必先在热身赛完成一题以上已确认你已经熟悉如何提交题目。否则正式比赛出现OJ提交等操作问题浪费的时间自行负责。
 <center><h1>题目提交</h1></center>
 ---
 ## **问题描述**

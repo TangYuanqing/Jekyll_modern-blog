@@ -16,4 +16,5 @@ date:   2017-11-13 18:30:00
 
 ## 参与比赛
 你必须首先参加比赛，才能正确查看题目信息，否则将视为缺席比赛。参与比赛的具体方法如下：
-![参与比赛](http://tdsast-1252477461.cossh.myqcloud.com/jointheamatch.png?sign=j7i+Vfmqew3y+PZKBh8TnWqecFphPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjExNjYyJnQ9MTUxMTAxOTY2MiZyPTE2NjU2NjcwJmY9L2pvaW50aGVhbWF0Y2gucG5nJmI9dGRzYXN0)
+![参与比赛](http://tdsast-1252477461.cossh.myqcloud.com/jointheamatch.png?sign=j7i+Vfmqew3y+PZKBh8TnWqecFphPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzNjExNjYyJnQ9MTUxMTAxOTY2MiZyPTE2NjU2NjcwJmY9L2pvaW50aGVhbWF0Y2gucG5nJmI9dGRzYXN0){:height="50%" width="50%"}
+点击"查看详情"或者下方的比赛名称，进入比赛页面。

@@ -2,8 +2,8 @@
 title:  程序设计大赛
 subtitle: 报名截止日期：<b><a style="color:red">已截止</a></b><br>正式比赛日期：<b><a style="color:red">2017-11-25<br>13:00-18:00[5小时]</a></b>(周六)
 author: "TangYuanqing"
-avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=+iqc5a5wI5L42gOkkmXibwgT/NNhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwMDY1JnQ9MTUxMDU4ODA2NSZyPTY2MzQ1ODk0MiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
-image: "http://tdsast-1252477461.cossh.myqcloud.com/a.jpg?sign=2Di+3xXiZJiLjJGnRfN0VUXnU+JhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5MzQ4JnQ9MTUxMDU4NzM0OCZyPTE2ODYwNjcwOSZmPS9hLmpwZyZiPXRkc2FzdA=="
+avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=917OvWtpyLWR2hEklLbdIi48lgRhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTE2MjkzMTUxJnQ9MTUxMzcwMTE1MSZyPTMyMzcxOTkzMiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
+image: " http://tdsast-1252477461.cossh.myqcloud.com/a.jpg?sign=vfFTfFPgwscvHHnxECLidw+QW29hPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTE2MjkzMTUxJnQ9MTUxMzcwMTE1MSZyPTE2MDI0MTk0MTMmZj0vYS5qcGcmYj10ZHNhc3Q="
 date:   2017-11-13 18:30:00
 ---
 
@@ -17,7 +17,7 @@ date:   2017-11-13 18:30:00
 ## 二、参赛对象  
 全体南京邮电大学通达学院在校学生。  
 ## 三、报名方式  
-报名地址：<http://www.tdsastc.cn/baoming.html>[已截止] 
+报名地址：<http://www.tdsastc.cn/baoming.html>[已截止]
 分为两个组别：B组（适合大一）A组(适合大二及以上)  
 ## 四、比赛流程方式及要求  
 1.比赛以网络集中比赛模式进行，参赛者使用个人电脑于规定时间在指定网站参与比赛。<br><font color="red">比赛时间：2017-11-25(周六)下午1:00-6:00[共5个小时]。</font>  

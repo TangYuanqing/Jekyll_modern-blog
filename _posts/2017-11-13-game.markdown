@@ -2,8 +2,8 @@
 title: 游戏评测大赛
 subtitle: <br><a style="opacity:0">.</a>投稿截止日期：<b><a style="color:red">2017-12-03</a></b>
 author: "最後"
-avatar: "http://tdsast-1252477461.cossh.myqcloud.com/JasonWang.jpg?sign=XODllHMSgua05o/soFzeom54cAhhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5NzI2JnQ9MTUxMDU4NzcyNiZyPTE3MTM0Njg5NjAmZj0vSmFzb25XYW5nLmpwZyZiPXRkc2FzdA=="
-image: "http://tdsast-1252477461.cossh.myqcloud.com/b.jpg?sign=qIYrc3fRRMjeCLjsYFduo4tgLxlhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTc5MzkzJnQ9MTUxMDU4NzM5MyZyPTEwMjYzMTcyNDYmZj0vYi5qcGcmYj10ZHNhc3Q="
+avatar: "http://tdsast-1252477461.cossh.myqcloud.com/JasonWang.jpg?sign=T6Nch4J/GeufrabxGPjhEj8FN0xhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTE2MjkzMTUxJnQ9MTUxMzcwMTE1MSZyPTE3Mjg2MDgyNzkmZj0vSmFzb25XYW5nLmpwZyZiPXRkc2FzdA=="
+image: "http://tdsast-1252477461.cossh.myqcloud.com/b.jpg?sign=i7oKpVIIWFC6lwYYvfX4HjvzcHVhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTE2MjkzMTUxJnQ9MTUxMzcwMTE1MSZyPTEzMjc2MDcxNTUmZj0vYi5qcGcmYj10ZHNhc3Q="
 date:   2017-11-13 18:30:00
 ---
 

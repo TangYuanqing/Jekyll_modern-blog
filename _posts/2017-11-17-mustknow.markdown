@@ -2,7 +2,7 @@
 title: 　<br>程序设计大赛参赛须知
 subtitle: 　热身赛日期：<b><a style="color:red">2017-11-19 10:00 - 赛前</a></b>
 author: "TangYuanqing"
-avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=+iqc5a5wI5L42gOkkmXibwgT/NNhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTEzMTgwMDY1JnQ9MTUxMDU4ODA2NSZyPTY2MzQ1ODk0MiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
+avatar: "http://tdsast-1252477461.cossh.myqcloud.com/TangYuanqing.jpg?sign=917OvWtpyLWR2hEklLbdIi48lgRhPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTE2MjkzMTUxJnQ9MTUxMzcwMTE1MSZyPTMyMzcxOTkzMiZmPS9UYW5nWXVhbnFpbmcuanBnJmI9dGRzYXN0"
 image: "http://tdsast-1252477461.cossh.myqcloud.com/a.jpg?sign=vfFTfFPgwscvHHnxECLidw+QW29hPTEyNTI0Nzc0NjEmaz1BS0lENTRyUm95ZGpMbzU5MmlRWmloVDJPcEJOTUNwR3VaUDImZT0xNTE2MjkzMTUxJnQ9MTUxMzcwMTE1MSZyPTE2MDI0MTk0MTMmZj0vYS5qcGcmYj10ZHNhc3Q="
 date:   2017-11-13 18:30:00
 ---
